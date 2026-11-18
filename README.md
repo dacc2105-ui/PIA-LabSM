@@ -363,3 +363,6 @@ El sistema deberá demostrar que:
 ## 🚀 Objetivo final
 
 Desarrollar una simulación multiagente en Python que permita estudiar cómo la cooperación, el patrullaje autónomo y los relevos inteligentes influyen en la cobertura de vigilancia, la eficiencia energética y la robustez de una instalación industrial simulada.
+
+
+
